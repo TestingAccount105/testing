@@ -12,6 +12,7 @@
         <p class="text-gray-600 font-bold">Ayo buat UI yang keren dengan Tailwind CSS.</p>
         <button class="px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-700 hover:px-8">Klik Aku</button>
         <p class="p-[30px]">Cara dalam memproses informasi adalah dengan menambahkan berbagai cara kita ke dalam dataset</p>
+        <p>Ini adalah penambahan baru</p>
     </div>
 </body>
 </html>
